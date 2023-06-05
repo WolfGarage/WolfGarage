@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wiktor aka @WolfGarage.
-- 👀 I’m interested in cars and automotive projects. I also like to experiment on sound projects and sometimes making some games.
-- 🌱 I’m currently learning python and java and using collected knowledge in android applications and Raspberry Pi projects.
+- 👀 I’m a car lover and a huge car enthousiast
+- 🌱 I’m currently trying to impove python and java skills. I'm also expierienced in Fusion 360. 
 - 💞️ I’m looking to collaborate on fun and interesting projects.
 - 📫 How to reach me? For now only on GitHub.
 
